@@ -1,2 +1,0 @@
-1.下载并安装git;
-2. 将某个文件夹（如data加入git管理，命令行：$ git init FILES
